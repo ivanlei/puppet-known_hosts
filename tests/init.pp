@@ -1,4 +1,4 @@
-Brequire stdlib
+require stdlib
 
 class { 'known_hosts':
   domain_name => 'evilclowns.org',
